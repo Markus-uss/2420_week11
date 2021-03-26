@@ -2,6 +2,7 @@
 Description=Run weather hourly.
 
 [Timer]
+OnBootSec=10s
 OnUnitActiveSec=1h
 
 [Install]
